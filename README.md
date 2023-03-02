@@ -1,4 +1,4 @@
-# finalCapstone
+# Capstone V
 
 Final Capstone - Bookstore Inventory 
 
